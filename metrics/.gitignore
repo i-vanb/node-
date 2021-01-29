@@ -1,0 +1,13 @@
+# Ignore all
+eer.cpp
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
+
+*.tsc
+*.csv
+*.o
+*.txt
+tmp
+tests
